@@ -1,2 +1,2 @@
 # Deteksi_Penyakit_Pada_Daun_Cabai
-Deteksi_Penyakit_Pada_Daun_Cabai_VGG
+Deteksi_Penyakit_Pada_Daun_Cabai
